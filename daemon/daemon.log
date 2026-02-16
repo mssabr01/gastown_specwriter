@@ -1,0 +1,1640 @@
+2026/02/16 05:15:40 Loaded patrol config from /home/conductor/gt/mayor/daemon.json
+2026/02/16 05:15:40 Daemon starting (PID 154327)
+2026/02/16 05:15:40 Daemon running, recovery heartbeat interval 3m0s
+2026/02/16 05:15:40 Feed curator started
+2026/02/16 05:15:40 Convoy watcher started
+2026/02/16 05:15:40 Heartbeat starting (recovery-focused)
+2026/02/16 05:15:40 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:15:45 Deacon started successfully
+2026/02/16 05:15:45 Spawning Boot for triage...
+2026/02/16 05:15:45 Boot spawned successfully
+2026/02/16 05:15:45 Deacon started recently (0s ago), skipping heartbeat check
+2026/02/16 05:15:45 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:15:45 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:15:50 Witness session for uniswapv2 started successfully
+2026/02/16 05:15:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:15:51 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:15:55 Refinery session for uniswapv2 started successfully
+2026/02/16 05:15:56 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:15:56 Heartbeat complete (#1)
+2026/02/16 05:16:01 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:06 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:11 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:16 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:21 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:26 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:36 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:46 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:54 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:16:59 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:04 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:09 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:14 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:19 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:24 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:35 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:45 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:17:55 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:03 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:08 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:13 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:18 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:23 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:28 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:33 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:38 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:40 Heartbeat starting (recovery-focused)
+2026/02/16 05:18:40 Boot already running, skipping spawn
+2026/02/16 05:18:40 Deacon started recently (2m55s ago), skipping heartbeat check
+2026/02/16 05:18:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:18:40 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:18:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:18:40 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:18:43 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:48 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:51 Heartbeat complete (#2)
+2026/02/16 05:18:53 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:18:58 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:03 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:09 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:14 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:19 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:24 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:29 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:34 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:39 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:44 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:49 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:54 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:19:59 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:04 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:10 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:15 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:20 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:25 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:30 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:35 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:40 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:45 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:50 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:20:55 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:00 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:05 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:10 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:16 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:21 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:26 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:31 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:36 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:41 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:51 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:21:51 Heartbeat starting (recovery-focused)
+2026/02/16 05:21:51 Boot already running, skipping spawn
+2026/02/16 05:21:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:21:51 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:21:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:21:51 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:22:01 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:22:11 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:22:13 Heartbeat complete (#3)
+2026/02/16 05:22:22 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:22:32 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:22:42 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:22:52 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:23:02 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:23:12 convoy watcher: bd activity error: exit status 1, restarting in 5s
+2026/02/16 05:25:13 Heartbeat starting (recovery-focused)
+2026/02/16 05:25:13 Boot already running, skipping spawn
+2026/02/16 05:25:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:25:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:25:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:25:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:25:34 Heartbeat complete (#4)
+2026/02/16 05:28:34 Heartbeat starting (recovery-focused)
+2026/02/16 05:28:34 Boot already running, skipping spawn
+2026/02/16 05:28:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:28:34 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:28:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:28:34 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:28:56 Heartbeat complete (#5)
+2026/02/16 05:31:56 Heartbeat starting (recovery-focused)
+2026/02/16 05:31:56 Boot already running, skipping spawn
+2026/02/16 05:31:56 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:31:56 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:31:56 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:31:56 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:32:17 Heartbeat complete (#6)
+2026/02/16 05:35:17 Heartbeat starting (recovery-focused)
+2026/02/16 05:35:17 Boot already running, skipping spawn
+2026/02/16 05:35:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:35:17 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:35:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:35:17 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:35:39 Heartbeat complete (#7)
+2026/02/16 05:38:39 Heartbeat starting (recovery-focused)
+2026/02/16 05:38:39 Boot already running, skipping spawn
+2026/02/16 05:38:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:38:39 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:38:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:38:39 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:39:00 Heartbeat complete (#8)
+2026/02/16 05:42:00 Heartbeat starting (recovery-focused)
+2026/02/16 05:42:00 Boot already running, skipping spawn
+2026/02/16 05:42:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:42:00 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:42:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:42:00 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:42:21 Heartbeat complete (#9)
+2026/02/16 05:45:21 Heartbeat starting (recovery-focused)
+2026/02/16 05:45:21 Boot already running, skipping spawn
+2026/02/16 05:45:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:45:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:45:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:45:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:45:43 Heartbeat complete (#10)
+2026/02/16 05:48:43 Heartbeat starting (recovery-focused)
+2026/02/16 05:48:43 Boot already running, skipping spawn
+2026/02/16 05:48:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:48:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:48:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:48:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:49:04 Heartbeat complete (#11)
+2026/02/16 05:52:04 Heartbeat starting (recovery-focused)
+2026/02/16 05:52:04 Boot already running, skipping spawn
+2026/02/16 05:52:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:52:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:52:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:52:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:52:26 Heartbeat complete (#12)
+2026/02/16 05:55:26 Heartbeat starting (recovery-focused)
+2026/02/16 05:55:26 Boot already running, skipping spawn
+2026/02/16 05:55:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:55:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:55:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:55:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:55:47 Heartbeat complete (#13)
+2026/02/16 05:58:47 Heartbeat starting (recovery-focused)
+2026/02/16 05:58:47 Boot already running, skipping spawn
+2026/02/16 05:58:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:58:47 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 05:58:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 05:58:47 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 05:59:08 Heartbeat complete (#14)
+2026/02/16 06:02:08 Heartbeat starting (recovery-focused)
+2026/02/16 06:02:08 Boot already running, skipping spawn
+2026/02/16 06:02:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:02:08 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:02:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:02:08 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:02:29 Heartbeat complete (#15)
+2026/02/16 06:05:29 Heartbeat starting (recovery-focused)
+2026/02/16 06:05:29 Boot already running, skipping spawn
+2026/02/16 06:05:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:05:29 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:05:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:05:29 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:05:51 Heartbeat complete (#16)
+2026/02/16 06:08:51 Heartbeat starting (recovery-focused)
+2026/02/16 06:08:51 Boot already running, skipping spawn
+2026/02/16 06:08:51 Deacon heartbeat is stale (18m0s old), checking session...
+2026/02/16 06:08:51 Deacon stuck for 18m0s - nudging session
+2026/02/16 06:08:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:08:51 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:08:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:08:51 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:09:13 Heartbeat complete (#17)
+2026/02/16 06:12:13 Heartbeat starting (recovery-focused)
+2026/02/16 06:12:13 Boot already running, skipping spawn
+2026/02/16 06:12:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:12:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:12:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:12:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:12:34 Heartbeat complete (#18)
+2026/02/16 06:15:34 Heartbeat starting (recovery-focused)
+2026/02/16 06:15:34 Boot already running, skipping spawn
+2026/02/16 06:15:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:15:34 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:15:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:15:34 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:15:55 Heartbeat complete (#19)
+2026/02/16 06:18:55 Heartbeat starting (recovery-focused)
+2026/02/16 06:18:55 Boot already running, skipping spawn
+2026/02/16 06:18:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:18:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:18:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:18:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:19:17 Heartbeat complete (#20)
+2026/02/16 06:22:17 Heartbeat starting (recovery-focused)
+2026/02/16 06:22:17 Boot already running, skipping spawn
+2026/02/16 06:22:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:22:17 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:22:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:22:17 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:22:38 Heartbeat complete (#21)
+2026/02/16 06:25:38 Heartbeat starting (recovery-focused)
+2026/02/16 06:25:38 Boot already running, skipping spawn
+2026/02/16 06:25:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:25:38 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:25:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:25:38 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:25:59 Heartbeat complete (#22)
+2026/02/16 06:28:59 Heartbeat starting (recovery-focused)
+2026/02/16 06:28:59 Boot already running, skipping spawn
+2026/02/16 06:28:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:28:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:28:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:28:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:29:20 Heartbeat complete (#23)
+2026/02/16 06:32:20 Heartbeat starting (recovery-focused)
+2026/02/16 06:32:20 Boot already running, skipping spawn
+2026/02/16 06:32:20 Deacon heartbeat is stale (16m0s old), checking session...
+2026/02/16 06:32:20 Deacon stuck for 16m0s - nudging session
+2026/02/16 06:32:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:32:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:32:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:32:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:32:43 Heartbeat complete (#24)
+2026/02/16 06:35:43 Heartbeat starting (recovery-focused)
+2026/02/16 06:35:43 Boot already running, skipping spawn
+2026/02/16 06:35:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:35:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:35:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:35:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:36:04 Heartbeat complete (#25)
+2026/02/16 06:39:04 Heartbeat starting (recovery-focused)
+2026/02/16 06:39:04 Boot already running, skipping spawn
+2026/02/16 06:39:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:39:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:39:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:39:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:39:26 Heartbeat complete (#26)
+2026/02/16 06:42:26 Heartbeat starting (recovery-focused)
+2026/02/16 06:42:26 Boot already running, skipping spawn
+2026/02/16 06:42:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:42:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:42:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:42:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:42:47 Heartbeat complete (#27)
+2026/02/16 06:45:47 Heartbeat starting (recovery-focused)
+2026/02/16 06:45:47 Boot already running, skipping spawn
+2026/02/16 06:45:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:45:47 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:45:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:45:47 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:46:08 Heartbeat complete (#28)
+2026/02/16 06:49:08 Heartbeat starting (recovery-focused)
+2026/02/16 06:49:08 Boot already running, skipping spawn
+2026/02/16 06:49:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:49:08 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:49:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:49:08 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:49:29 Heartbeat complete (#29)
+2026/02/16 06:52:29 Heartbeat starting (recovery-focused)
+2026/02/16 06:52:29 Boot already running, skipping spawn
+2026/02/16 06:52:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:52:29 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:52:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:52:29 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:52:51 Heartbeat complete (#30)
+2026/02/16 06:55:51 Heartbeat starting (recovery-focused)
+2026/02/16 06:55:51 Boot already running, skipping spawn
+2026/02/16 06:55:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:55:51 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:55:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:55:51 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:56:12 Heartbeat complete (#31)
+2026/02/16 06:59:12 Heartbeat starting (recovery-focused)
+2026/02/16 06:59:12 Boot already running, skipping spawn
+2026/02/16 06:59:12 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 06:59:12 Deacon stuck for 17m0s - nudging session
+2026/02/16 06:59:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:59:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 06:59:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 06:59:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 06:59:34 Heartbeat complete (#32)
+2026/02/16 07:02:34 Heartbeat starting (recovery-focused)
+2026/02/16 07:02:34 Boot already running, skipping spawn
+2026/02/16 07:02:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:02:34 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:02:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:02:34 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:02:56 Heartbeat complete (#33)
+2026/02/16 07:05:56 Heartbeat starting (recovery-focused)
+2026/02/16 07:05:56 Boot already running, skipping spawn
+2026/02/16 07:05:56 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:05:56 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:05:56 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:05:56 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:06:17 Heartbeat complete (#34)
+2026/02/16 07:09:17 Heartbeat starting (recovery-focused)
+2026/02/16 07:09:17 Boot already running, skipping spawn
+2026/02/16 07:09:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:09:17 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:09:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:09:17 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:09:39 Heartbeat complete (#35)
+2026/02/16 07:12:39 Heartbeat starting (recovery-focused)
+2026/02/16 07:12:39 Boot already running, skipping spawn
+2026/02/16 07:12:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:12:39 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:12:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:12:39 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:13:00 Heartbeat complete (#36)
+2026/02/16 07:16:00 Heartbeat starting (recovery-focused)
+2026/02/16 07:16:00 Boot already running, skipping spawn
+2026/02/16 07:16:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:16:00 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:16:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:16:00 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:16:22 Heartbeat complete (#37)
+2026/02/16 07:19:22 Heartbeat starting (recovery-focused)
+2026/02/16 07:19:22 Boot already running, skipping spawn
+2026/02/16 07:19:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:19:22 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:19:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:19:22 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:19:43 Heartbeat complete (#38)
+2026/02/16 07:22:43 Heartbeat starting (recovery-focused)
+2026/02/16 07:22:43 Boot already running, skipping spawn
+2026/02/16 07:22:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:22:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:22:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:22:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:23:04 Heartbeat complete (#39)
+2026/02/16 07:26:04 Heartbeat starting (recovery-focused)
+2026/02/16 07:26:04 Boot already running, skipping spawn
+2026/02/16 07:26:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:26:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:26:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:26:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:26:26 Heartbeat complete (#40)
+2026/02/16 07:29:26 Heartbeat starting (recovery-focused)
+2026/02/16 07:29:26 Boot already running, skipping spawn
+2026/02/16 07:29:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:29:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:29:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:29:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:29:47 Heartbeat complete (#41)
+2026/02/16 07:32:47 Heartbeat starting (recovery-focused)
+2026/02/16 07:32:47 Boot already running, skipping spawn
+2026/02/16 07:32:47 Deacon heartbeat is stale (15m0s old), checking session...
+2026/02/16 07:32:47 Deacon stuck for 15m0s - nudging session
+2026/02/16 07:32:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:32:48 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:32:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:32:48 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:33:09 Heartbeat complete (#42)
+2026/02/16 07:36:09 Heartbeat starting (recovery-focused)
+2026/02/16 07:36:09 Boot already running, skipping spawn
+2026/02/16 07:36:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:36:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:36:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:36:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:36:31 Heartbeat complete (#43)
+2026/02/16 07:39:31 Heartbeat starting (recovery-focused)
+2026/02/16 07:39:31 Boot already running, skipping spawn
+2026/02/16 07:39:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:39:31 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:39:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:39:31 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:39:52 Heartbeat complete (#44)
+2026/02/16 07:42:52 Heartbeat starting (recovery-focused)
+2026/02/16 07:42:52 Boot already running, skipping spawn
+2026/02/16 07:42:52 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:42:52 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:42:52 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:42:52 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:43:13 Heartbeat complete (#45)
+2026/02/16 07:46:13 Heartbeat starting (recovery-focused)
+2026/02/16 07:46:14 Boot already running, skipping spawn
+2026/02/16 07:46:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:46:14 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:46:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:46:14 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:46:35 Heartbeat complete (#46)
+2026/02/16 07:49:35 Heartbeat starting (recovery-focused)
+2026/02/16 07:49:35 Boot already running, skipping spawn
+2026/02/16 07:49:35 Deacon heartbeat is stale (16m0s old), checking session...
+2026/02/16 07:49:35 Deacon stuck for 16m0s - nudging session
+2026/02/16 07:49:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:49:35 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:49:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:49:35 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:49:57 Heartbeat complete (#47)
+2026/02/16 07:52:57 Heartbeat starting (recovery-focused)
+2026/02/16 07:52:57 Boot already running, skipping spawn
+2026/02/16 07:52:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:52:57 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:52:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:52:57 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:53:18 Heartbeat complete (#48)
+2026/02/16 07:56:18 Heartbeat starting (recovery-focused)
+2026/02/16 07:56:18 Boot already running, skipping spawn
+2026/02/16 07:56:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:56:18 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:56:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:56:18 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 07:56:40 Heartbeat complete (#49)
+2026/02/16 07:59:40 Heartbeat starting (recovery-focused)
+2026/02/16 07:59:40 Boot already running, skipping spawn
+2026/02/16 07:59:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:59:40 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 07:59:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 07:59:40 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:00:01 Heartbeat complete (#50)
+2026/02/16 08:03:01 Heartbeat starting (recovery-focused)
+2026/02/16 08:03:01 Boot already running, skipping spawn
+2026/02/16 08:03:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:03:01 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:03:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:03:01 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:03:22 Heartbeat complete (#51)
+2026/02/16 08:06:22 Heartbeat starting (recovery-focused)
+2026/02/16 08:06:22 Boot already running, skipping spawn
+2026/02/16 08:06:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:06:22 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:06:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:06:22 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:06:44 Heartbeat complete (#52)
+2026/02/16 08:09:44 Heartbeat starting (recovery-focused)
+2026/02/16 08:09:44 Boot already running, skipping spawn
+2026/02/16 08:09:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:09:44 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:09:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:09:44 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:10:05 Heartbeat complete (#53)
+2026/02/16 08:13:05 Heartbeat starting (recovery-focused)
+2026/02/16 08:13:05 Boot already running, skipping spawn
+2026/02/16 08:13:05 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 08:13:05 Deacon stuck for 17m0s - nudging session
+2026/02/16 08:13:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:13:06 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:13:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:13:06 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:13:27 Heartbeat complete (#54)
+2026/02/16 08:16:27 Heartbeat starting (recovery-focused)
+2026/02/16 08:16:27 Boot already running, skipping spawn
+2026/02/16 08:16:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:16:27 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:16:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:16:27 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:16:49 Heartbeat complete (#55)
+2026/02/16 08:19:49 Heartbeat starting (recovery-focused)
+2026/02/16 08:19:49 Boot already running, skipping spawn
+2026/02/16 08:19:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:19:49 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:19:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:19:49 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:20:10 Heartbeat complete (#56)
+2026/02/16 08:23:10 Heartbeat starting (recovery-focused)
+2026/02/16 08:23:10 Boot already running, skipping spawn
+2026/02/16 08:23:10 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:23:10 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:23:10 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:23:10 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:23:31 Heartbeat complete (#57)
+2026/02/16 08:26:31 Heartbeat starting (recovery-focused)
+2026/02/16 08:26:31 Boot already running, skipping spawn
+2026/02/16 08:26:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:26:31 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:26:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:26:31 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:26:53 Heartbeat complete (#58)
+2026/02/16 08:29:53 Heartbeat starting (recovery-focused)
+2026/02/16 08:29:53 Boot already running, skipping spawn
+2026/02/16 08:29:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:29:53 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:29:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:29:53 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:30:14 Heartbeat complete (#59)
+2026/02/16 08:33:14 Heartbeat starting (recovery-focused)
+2026/02/16 08:33:14 Boot already running, skipping spawn
+2026/02/16 08:33:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:33:14 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:33:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:33:14 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:33:35 Heartbeat complete (#60)
+2026/02/16 08:36:35 Heartbeat starting (recovery-focused)
+2026/02/16 08:36:35 Boot already running, skipping spawn
+2026/02/16 08:36:35 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 08:36:35 Deacon stuck for 17m0s - nudging session
+2026/02/16 08:36:36 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:36:36 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:36:36 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:36:36 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:36:57 Heartbeat complete (#61)
+2026/02/16 08:39:57 Heartbeat starting (recovery-focused)
+2026/02/16 08:39:57 Boot already running, skipping spawn
+2026/02/16 08:39:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:39:57 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:39:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:39:57 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:40:19 Heartbeat complete (#62)
+2026/02/16 08:43:19 Heartbeat starting (recovery-focused)
+2026/02/16 08:43:19 Boot already running, skipping spawn
+2026/02/16 08:43:19 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:43:19 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:43:19 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:43:19 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:43:40 Heartbeat complete (#63)
+2026/02/16 08:46:40 Heartbeat starting (recovery-focused)
+2026/02/16 08:46:40 Boot already running, skipping spawn
+2026/02/16 08:46:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:46:40 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:46:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:46:40 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:47:02 Heartbeat complete (#64)
+2026/02/16 08:50:02 Heartbeat starting (recovery-focused)
+2026/02/16 08:50:02 Boot already running, skipping spawn
+2026/02/16 08:50:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:50:02 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:50:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:50:02 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:50:23 Heartbeat complete (#65)
+2026/02/16 08:53:23 Heartbeat starting (recovery-focused)
+2026/02/16 08:53:23 Boot already running, skipping spawn
+2026/02/16 08:53:23 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:53:23 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:53:23 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:53:23 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:53:44 Heartbeat complete (#66)
+2026/02/16 08:56:44 Heartbeat starting (recovery-focused)
+2026/02/16 08:56:44 Boot already running, skipping spawn
+2026/02/16 08:56:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:56:44 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 08:56:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 08:56:44 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 08:57:06 Heartbeat complete (#67)
+2026/02/16 09:00:06 Heartbeat starting (recovery-focused)
+2026/02/16 09:00:06 Boot already running, skipping spawn
+2026/02/16 09:00:06 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 09:00:06 Deacon stuck for 17m0s - nudging session
+2026/02/16 09:00:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:00:06 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:00:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:00:06 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:00:28 Heartbeat complete (#68)
+2026/02/16 09:03:28 Heartbeat starting (recovery-focused)
+2026/02/16 09:03:28 Boot already running, skipping spawn
+2026/02/16 09:03:28 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:03:28 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:03:28 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:03:28 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:03:50 Heartbeat complete (#69)
+2026/02/16 09:06:50 Heartbeat starting (recovery-focused)
+2026/02/16 09:06:50 Boot already running, skipping spawn
+2026/02/16 09:06:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:06:50 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:06:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:06:50 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:07:11 Heartbeat complete (#70)
+2026/02/16 09:10:11 Heartbeat starting (recovery-focused)
+2026/02/16 09:10:11 Boot already running, skipping spawn
+2026/02/16 09:10:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:10:11 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:10:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:10:11 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:10:32 Heartbeat complete (#71)
+2026/02/16 09:13:32 Heartbeat starting (recovery-focused)
+2026/02/16 09:13:32 Boot already running, skipping spawn
+2026/02/16 09:13:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:13:32 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:13:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:13:32 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:13:54 Heartbeat complete (#72)
+2026/02/16 09:16:54 Heartbeat starting (recovery-focused)
+2026/02/16 09:16:54 Boot already running, skipping spawn
+2026/02/16 09:16:54 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:16:54 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:16:54 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:16:54 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:17:15 Heartbeat complete (#73)
+2026/02/16 09:20:15 Heartbeat starting (recovery-focused)
+2026/02/16 09:20:15 Boot already running, skipping spawn
+2026/02/16 09:20:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:20:15 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:20:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:20:15 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:20:36 Heartbeat complete (#74)
+2026/02/16 09:23:36 Heartbeat starting (recovery-focused)
+2026/02/16 09:23:36 Boot already running, skipping spawn
+2026/02/16 09:23:36 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 09:23:36 Deacon stuck for 17m0s - nudging session
+2026/02/16 09:23:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:23:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:23:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:23:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:23:59 Heartbeat complete (#75)
+2026/02/16 09:26:59 Heartbeat starting (recovery-focused)
+2026/02/16 09:26:59 Boot already running, skipping spawn
+2026/02/16 09:26:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:26:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:26:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:26:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:27:20 Heartbeat complete (#76)
+2026/02/16 09:30:20 Heartbeat starting (recovery-focused)
+2026/02/16 09:30:20 Boot already running, skipping spawn
+2026/02/16 09:30:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:30:20 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:30:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:30:20 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:30:42 Heartbeat complete (#77)
+2026/02/16 09:33:42 Heartbeat starting (recovery-focused)
+2026/02/16 09:33:42 Boot already running, skipping spawn
+2026/02/16 09:33:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:33:42 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:33:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:33:42 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:34:03 Heartbeat complete (#78)
+2026/02/16 09:37:03 Heartbeat starting (recovery-focused)
+2026/02/16 09:37:03 Boot already running, skipping spawn
+2026/02/16 09:37:03 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:37:03 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:37:03 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:37:03 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:37:25 Heartbeat complete (#79)
+2026/02/16 09:40:25 Heartbeat starting (recovery-focused)
+2026/02/16 09:40:25 Boot already running, skipping spawn
+2026/02/16 09:40:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:40:25 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:40:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:40:25 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:40:46 Heartbeat complete (#80)
+2026/02/16 09:43:46 Heartbeat starting (recovery-focused)
+2026/02/16 09:43:46 Boot already running, skipping spawn
+2026/02/16 09:43:46 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:43:46 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:43:46 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:43:46 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:44:07 Heartbeat complete (#81)
+2026/02/16 09:47:07 Heartbeat starting (recovery-focused)
+2026/02/16 09:47:07 Boot already running, skipping spawn
+2026/02/16 09:47:07 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 09:47:07 Deacon stuck for 17m0s - nudging session
+2026/02/16 09:47:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:47:08 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:47:08 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:47:08 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:47:30 Heartbeat complete (#82)
+2026/02/16 09:50:30 Heartbeat starting (recovery-focused)
+2026/02/16 09:50:30 Boot already running, skipping spawn
+2026/02/16 09:50:30 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:50:30 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:50:30 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:50:30 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:50:51 Heartbeat complete (#83)
+2026/02/16 09:53:51 Heartbeat starting (recovery-focused)
+2026/02/16 09:53:51 Boot already running, skipping spawn
+2026/02/16 09:53:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:53:51 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:53:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:53:51 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:54:13 Heartbeat complete (#84)
+2026/02/16 09:57:13 Heartbeat starting (recovery-focused)
+2026/02/16 09:57:13 Boot already running, skipping spawn
+2026/02/16 09:57:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:57:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 09:57:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 09:57:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 09:57:34 Heartbeat complete (#85)
+2026/02/16 10:00:34 Heartbeat starting (recovery-focused)
+2026/02/16 10:00:34 Boot already running, skipping spawn
+2026/02/16 10:00:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:00:34 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:00:34 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:00:34 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:00:55 Heartbeat complete (#86)
+2026/02/16 10:03:55 Heartbeat starting (recovery-focused)
+2026/02/16 10:03:55 Boot already running, skipping spawn
+2026/02/16 10:03:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:03:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:03:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:03:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:04:17 Heartbeat complete (#87)
+2026/02/16 10:07:17 Heartbeat starting (recovery-focused)
+2026/02/16 10:07:17 Boot already running, skipping spawn
+2026/02/16 10:07:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:07:17 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:07:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:07:17 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:07:38 Heartbeat complete (#88)
+2026/02/16 10:10:38 Heartbeat starting (recovery-focused)
+2026/02/16 10:10:38 Boot already running, skipping spawn
+2026/02/16 10:10:38 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 10:10:38 Deacon stuck for 17m0s - nudging session
+2026/02/16 10:10:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:10:39 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:10:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:10:39 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:11:00 Heartbeat complete (#89)
+2026/02/16 10:14:00 Heartbeat starting (recovery-focused)
+2026/02/16 10:14:00 Boot already running, skipping spawn
+2026/02/16 10:14:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:14:00 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:14:00 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:14:00 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:14:22 Heartbeat complete (#90)
+2026/02/16 10:17:22 Heartbeat starting (recovery-focused)
+2026/02/16 10:17:22 Boot already running, skipping spawn
+2026/02/16 10:17:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:17:22 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:17:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:17:22 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:17:43 Heartbeat complete (#91)
+2026/02/16 10:20:43 Heartbeat starting (recovery-focused)
+2026/02/16 10:20:43 Boot already running, skipping spawn
+2026/02/16 10:20:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:20:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:20:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:20:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:21:05 Heartbeat complete (#92)
+2026/02/16 10:24:05 Heartbeat starting (recovery-focused)
+2026/02/16 10:24:05 Boot already running, skipping spawn
+2026/02/16 10:24:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:24:05 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:24:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:24:05 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:24:26 Heartbeat complete (#93)
+2026/02/16 10:27:26 Heartbeat starting (recovery-focused)
+2026/02/16 10:27:26 Boot already running, skipping spawn
+2026/02/16 10:27:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:27:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:27:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:27:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:27:47 Heartbeat complete (#94)
+2026/02/16 10:30:47 Heartbeat starting (recovery-focused)
+2026/02/16 10:30:47 Boot already running, skipping spawn
+2026/02/16 10:30:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:30:47 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:30:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:30:47 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:31:09 Heartbeat complete (#95)
+2026/02/16 10:34:09 Heartbeat starting (recovery-focused)
+2026/02/16 10:34:09 Boot already running, skipping spawn
+2026/02/16 10:34:09 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 10:34:09 Deacon stuck for 17m0s - nudging session
+2026/02/16 10:34:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:34:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:34:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:34:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:34:31 Heartbeat complete (#96)
+2026/02/16 10:37:31 Heartbeat starting (recovery-focused)
+2026/02/16 10:37:31 Boot already running, skipping spawn
+2026/02/16 10:37:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:37:31 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:37:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:37:31 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:37:53 Heartbeat complete (#97)
+2026/02/16 10:40:53 Heartbeat starting (recovery-focused)
+2026/02/16 10:40:53 Boot already running, skipping spawn
+2026/02/16 10:40:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:40:53 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:40:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:40:53 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:41:14 Heartbeat complete (#98)
+2026/02/16 10:44:14 Heartbeat starting (recovery-focused)
+2026/02/16 10:44:14 Boot already running, skipping spawn
+2026/02/16 10:44:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:44:14 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:44:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:44:14 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:44:35 Heartbeat complete (#99)
+2026/02/16 10:47:35 Heartbeat starting (recovery-focused)
+2026/02/16 10:47:35 Boot already running, skipping spawn
+2026/02/16 10:47:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:47:36 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:47:36 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:47:36 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:47:57 Heartbeat complete (#100)
+2026/02/16 10:50:57 Heartbeat starting (recovery-focused)
+2026/02/16 10:50:57 Boot already running, skipping spawn
+2026/02/16 10:50:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:50:57 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:50:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:50:57 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:51:18 Heartbeat complete (#101)
+2026/02/16 10:54:18 Heartbeat starting (recovery-focused)
+2026/02/16 10:54:18 Boot already running, skipping spawn
+2026/02/16 10:54:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:54:18 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:54:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:54:18 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:54:40 Heartbeat complete (#102)
+2026/02/16 10:57:40 Heartbeat starting (recovery-focused)
+2026/02/16 10:57:40 Boot already running, skipping spawn
+2026/02/16 10:57:40 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 10:57:40 Deacon stuck for 17m0s - nudging session
+2026/02/16 10:57:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:57:40 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 10:57:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 10:57:40 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 10:58:02 Heartbeat complete (#103)
+2026/02/16 11:01:02 Heartbeat starting (recovery-focused)
+2026/02/16 11:01:02 Boot already running, skipping spawn
+2026/02/16 11:01:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:01:02 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:01:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:01:02 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:01:24 Heartbeat complete (#104)
+2026/02/16 11:04:24 Heartbeat starting (recovery-focused)
+2026/02/16 11:04:24 Boot already running, skipping spawn
+2026/02/16 11:04:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:04:24 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:04:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:04:24 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:04:45 Heartbeat complete (#105)
+2026/02/16 11:07:45 Heartbeat starting (recovery-focused)
+2026/02/16 11:07:45 Boot already running, skipping spawn
+2026/02/16 11:07:45 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:07:45 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:07:45 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:07:45 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:08:07 Heartbeat complete (#106)
+2026/02/16 11:11:07 Heartbeat starting (recovery-focused)
+2026/02/16 11:11:07 Boot already running, skipping spawn
+2026/02/16 11:11:07 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:11:07 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:11:07 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:11:07 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:11:28 Heartbeat complete (#107)
+2026/02/16 11:14:28 Heartbeat starting (recovery-focused)
+2026/02/16 11:14:28 Boot already running, skipping spawn
+2026/02/16 11:14:28 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:14:28 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:14:28 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:14:28 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:14:50 Heartbeat complete (#108)
+2026/02/16 11:17:50 Heartbeat starting (recovery-focused)
+2026/02/16 11:17:50 Boot already running, skipping spawn
+2026/02/16 11:17:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:17:50 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:17:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:17:50 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:18:11 Heartbeat complete (#109)
+2026/02/16 11:21:11 Heartbeat starting (recovery-focused)
+2026/02/16 11:21:11 Boot already running, skipping spawn
+2026/02/16 11:21:11 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 11:21:11 Deacon stuck for 17m0s - nudging session
+2026/02/16 11:21:12 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:21:12 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:21:12 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:21:12 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:21:33 Heartbeat complete (#110)
+2026/02/16 11:24:33 Heartbeat starting (recovery-focused)
+2026/02/16 11:24:33 Boot already running, skipping spawn
+2026/02/16 11:24:33 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:24:33 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:24:33 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:24:33 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:24:55 Heartbeat complete (#111)
+2026/02/16 11:27:55 Heartbeat starting (recovery-focused)
+2026/02/16 11:27:55 Boot already running, skipping spawn
+2026/02/16 11:27:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:27:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:27:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:27:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:28:16 Heartbeat complete (#112)
+2026/02/16 11:31:16 Heartbeat starting (recovery-focused)
+2026/02/16 11:31:16 Boot already running, skipping spawn
+2026/02/16 11:31:16 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:31:16 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:31:16 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:31:16 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:31:37 Heartbeat complete (#113)
+2026/02/16 11:34:37 Heartbeat starting (recovery-focused)
+2026/02/16 11:34:37 Boot already running, skipping spawn
+2026/02/16 11:34:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:34:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:34:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:34:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:34:59 Heartbeat complete (#114)
+2026/02/16 11:37:59 Heartbeat starting (recovery-focused)
+2026/02/16 11:37:59 Boot already running, skipping spawn
+2026/02/16 11:37:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:37:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:37:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:37:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:38:20 Heartbeat complete (#115)
+2026/02/16 11:41:20 Heartbeat starting (recovery-focused)
+2026/02/16 11:41:20 Boot already running, skipping spawn
+2026/02/16 11:41:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:41:20 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:41:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:41:20 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:41:42 Heartbeat complete (#116)
+2026/02/16 11:44:42 Heartbeat starting (recovery-focused)
+2026/02/16 11:44:42 Boot already running, skipping spawn
+2026/02/16 11:44:42 Deacon heartbeat is stale (17m0s old), checking session...
+2026/02/16 11:44:42 Deacon stuck for 17m0s - nudging session
+2026/02/16 11:44:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:44:42 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:44:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:44:42 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:45:04 Heartbeat complete (#117)
+2026/02/16 11:48:04 Heartbeat starting (recovery-focused)
+2026/02/16 11:48:04 Boot already running, skipping spawn
+2026/02/16 11:48:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:48:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:48:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:48:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:48:26 Heartbeat complete (#118)
+2026/02/16 11:51:26 Heartbeat starting (recovery-focused)
+2026/02/16 11:51:26 Boot already running, skipping spawn
+2026/02/16 11:51:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:51:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:51:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:51:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:51:47 Heartbeat complete (#119)
+2026/02/16 11:54:47 Heartbeat starting (recovery-focused)
+2026/02/16 11:54:47 Boot already running, skipping spawn
+2026/02/16 11:54:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:54:47 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:54:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:54:47 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:55:09 Heartbeat complete (#120)
+2026/02/16 11:58:09 Heartbeat starting (recovery-focused)
+2026/02/16 11:58:09 Boot already running, skipping spawn
+2026/02/16 11:58:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:58:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 11:58:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 11:58:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 11:58:31 Heartbeat complete (#121)
+2026/02/16 12:01:31 Heartbeat starting (recovery-focused)
+2026/02/16 12:01:31 Boot already running, skipping spawn
+2026/02/16 12:01:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:01:31 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:01:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:01:31 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:01:53 Heartbeat complete (#122)
+2026/02/16 12:04:53 Heartbeat starting (recovery-focused)
+2026/02/16 12:04:53 Boot already running, skipping spawn
+2026/02/16 12:04:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:04:53 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:04:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:04:53 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:05:15 Heartbeat complete (#123)
+2026/02/16 12:08:15 Heartbeat starting (recovery-focused)
+2026/02/16 12:08:15 Boot already running, skipping spawn
+2026/02/16 12:08:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:08:15 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:08:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:08:15 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:08:37 Heartbeat complete (#124)
+2026/02/16 12:11:37 Heartbeat starting (recovery-focused)
+2026/02/16 12:11:37 Boot already running, skipping spawn
+2026/02/16 12:11:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:11:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:11:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:11:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:11:59 Heartbeat complete (#125)
+2026/02/16 12:14:59 Heartbeat starting (recovery-focused)
+2026/02/16 12:14:59 Boot already running, skipping spawn
+2026/02/16 12:14:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:14:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:14:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:14:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:15:21 Heartbeat complete (#126)
+2026/02/16 12:18:21 Heartbeat starting (recovery-focused)
+2026/02/16 12:18:21 Boot already running, skipping spawn
+2026/02/16 12:18:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:18:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:18:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:18:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:18:43 Heartbeat complete (#127)
+2026/02/16 12:21:43 Heartbeat starting (recovery-focused)
+2026/02/16 12:21:43 Boot already running, skipping spawn
+2026/02/16 12:21:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:21:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:21:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:21:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:22:04 Heartbeat complete (#128)
+2026/02/16 12:25:04 Heartbeat starting (recovery-focused)
+2026/02/16 12:25:04 Boot already running, skipping spawn
+2026/02/16 12:25:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:25:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:25:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:25:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:25:26 Heartbeat complete (#129)
+2026/02/16 12:28:26 Heartbeat starting (recovery-focused)
+2026/02/16 12:28:26 Boot already running, skipping spawn
+2026/02/16 12:28:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:28:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:28:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:28:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:28:48 Heartbeat complete (#130)
+2026/02/16 12:31:48 Heartbeat starting (recovery-focused)
+2026/02/16 12:31:48 Boot already running, skipping spawn
+2026/02/16 12:31:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:31:48 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:31:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:31:48 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:32:10 Heartbeat complete (#131)
+2026/02/16 12:35:10 Heartbeat starting (recovery-focused)
+2026/02/16 12:35:10 Boot already running, skipping spawn
+2026/02/16 12:35:10 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:35:10 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:35:10 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:35:10 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:35:31 Heartbeat complete (#132)
+2026/02/16 12:38:31 Heartbeat starting (recovery-focused)
+2026/02/16 12:38:32 Boot already running, skipping spawn
+2026/02/16 12:38:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:38:32 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:38:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:38:32 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:38:53 Heartbeat complete (#133)
+2026/02/16 12:41:53 Heartbeat starting (recovery-focused)
+2026/02/16 12:41:53 Boot already running, skipping spawn
+2026/02/16 12:41:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:41:53 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:41:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:41:53 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:42:15 Heartbeat complete (#134)
+2026/02/16 12:45:15 Heartbeat starting (recovery-focused)
+2026/02/16 12:45:15 Boot already running, skipping spawn
+2026/02/16 12:45:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:45:15 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:45:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:45:15 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:45:37 Heartbeat complete (#135)
+2026/02/16 12:48:37 Heartbeat starting (recovery-focused)
+2026/02/16 12:48:37 Boot already running, skipping spawn
+2026/02/16 12:48:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:48:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:48:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:48:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:48:58 Heartbeat complete (#136)
+2026/02/16 12:51:58 Heartbeat starting (recovery-focused)
+2026/02/16 12:51:58 Boot already running, skipping spawn
+2026/02/16 12:51:58 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:51:58 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:51:58 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:51:58 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:52:21 Heartbeat complete (#137)
+2026/02/16 12:55:21 Heartbeat starting (recovery-focused)
+2026/02/16 12:55:21 Boot already running, skipping spawn
+2026/02/16 12:55:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:55:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:55:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:55:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:55:42 Heartbeat complete (#138)
+2026/02/16 12:58:42 Heartbeat starting (recovery-focused)
+2026/02/16 12:58:42 Boot already running, skipping spawn
+2026/02/16 12:58:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:58:42 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 12:58:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 12:58:42 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 12:59:05 Heartbeat complete (#139)
+2026/02/16 13:02:05 Heartbeat starting (recovery-focused)
+2026/02/16 13:02:05 Boot already running, skipping spawn
+2026/02/16 13:02:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:02:05 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:02:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:02:05 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:02:27 Heartbeat complete (#140)
+2026/02/16 13:05:27 Heartbeat starting (recovery-focused)
+2026/02/16 13:05:27 Boot already running, skipping spawn
+2026/02/16 13:05:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:05:27 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:05:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:05:27 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:05:49 Heartbeat complete (#141)
+2026/02/16 13:08:49 Heartbeat starting (recovery-focused)
+2026/02/16 13:08:49 Boot already running, skipping spawn
+2026/02/16 13:08:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:08:49 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:08:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:08:49 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:09:11 Heartbeat complete (#142)
+2026/02/16 13:12:11 Heartbeat starting (recovery-focused)
+2026/02/16 13:12:11 Boot already running, skipping spawn
+2026/02/16 13:12:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:12:11 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:12:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:12:11 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:12:35 Heartbeat complete (#143)
+2026/02/16 13:15:35 Heartbeat starting (recovery-focused)
+2026/02/16 13:15:35 Boot already running, skipping spawn
+2026/02/16 13:15:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:15:35 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:15:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:15:35 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:15:57 Heartbeat complete (#144)
+2026/02/16 13:18:57 Heartbeat starting (recovery-focused)
+2026/02/16 13:18:57 Boot already running, skipping spawn
+2026/02/16 13:18:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:18:57 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:18:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:18:57 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:19:20 Heartbeat complete (#145)
+2026/02/16 13:22:20 Heartbeat starting (recovery-focused)
+2026/02/16 13:22:20 Boot already running, skipping spawn
+2026/02/16 13:22:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:22:20 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:22:20 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:22:20 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:22:44 Heartbeat complete (#146)
+2026/02/16 13:25:44 Heartbeat starting (recovery-focused)
+2026/02/16 13:25:44 Boot already running, skipping spawn
+2026/02/16 13:25:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:25:44 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:25:44 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:25:44 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:26:05 Heartbeat complete (#147)
+2026/02/16 13:29:05 Heartbeat starting (recovery-focused)
+2026/02/16 13:29:05 Boot already running, skipping spawn
+2026/02/16 13:29:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:29:05 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:29:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:29:05 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:29:27 Heartbeat complete (#148)
+2026/02/16 13:32:27 Heartbeat starting (recovery-focused)
+2026/02/16 13:32:27 Boot already running, skipping spawn
+2026/02/16 13:32:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:32:27 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:32:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:32:27 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:32:51 Heartbeat complete (#149)
+2026/02/16 13:35:51 Heartbeat starting (recovery-focused)
+2026/02/16 13:35:51 Boot already running, skipping spawn
+2026/02/16 13:35:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:35:51 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:35:51 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:35:51 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:36:13 Heartbeat complete (#150)
+2026/02/16 13:39:13 Heartbeat starting (recovery-focused)
+2026/02/16 13:39:13 Boot already running, skipping spawn
+2026/02/16 13:39:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:39:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:39:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:39:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:39:37 Heartbeat complete (#151)
+2026/02/16 13:42:37 Heartbeat starting (recovery-focused)
+2026/02/16 13:42:37 Boot already running, skipping spawn
+2026/02/16 13:42:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:42:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:42:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:42:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:42:59 Heartbeat complete (#152)
+2026/02/16 13:45:59 Heartbeat starting (recovery-focused)
+2026/02/16 13:45:59 Boot already running, skipping spawn
+2026/02/16 13:45:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:45:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:45:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:45:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:46:21 Heartbeat complete (#153)
+2026/02/16 13:49:21 Heartbeat starting (recovery-focused)
+2026/02/16 13:49:21 Boot already running, skipping spawn
+2026/02/16 13:49:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:49:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:49:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:49:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:49:43 Heartbeat complete (#154)
+2026/02/16 13:52:43 Heartbeat starting (recovery-focused)
+2026/02/16 13:52:43 Boot already running, skipping spawn
+2026/02/16 13:52:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:52:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:52:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:52:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:53:05 Heartbeat complete (#155)
+2026/02/16 13:56:05 Heartbeat starting (recovery-focused)
+2026/02/16 13:56:05 Boot already running, skipping spawn
+2026/02/16 13:56:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:56:05 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:56:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:56:05 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:56:27 Heartbeat complete (#156)
+2026/02/16 13:59:27 Heartbeat starting (recovery-focused)
+2026/02/16 13:59:27 Boot already running, skipping spawn
+2026/02/16 13:59:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:59:27 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 13:59:27 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 13:59:27 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 13:59:49 Heartbeat complete (#157)
+2026/02/16 14:02:49 Heartbeat starting (recovery-focused)
+2026/02/16 14:02:49 Boot already running, skipping spawn
+2026/02/16 14:02:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:02:49 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:02:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:02:49 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:03:12 Heartbeat complete (#158)
+2026/02/16 14:06:12 Heartbeat starting (recovery-focused)
+2026/02/16 14:06:12 Boot already running, skipping spawn
+2026/02/16 14:06:12 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:06:12 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:06:12 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:06:12 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:06:37 Heartbeat complete (#159)
+2026/02/16 14:09:37 Heartbeat starting (recovery-focused)
+2026/02/16 14:09:37 Boot already running, skipping spawn
+2026/02/16 14:09:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:09:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:09:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:09:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:09:59 Heartbeat complete (#160)
+2026/02/16 14:12:59 Heartbeat starting (recovery-focused)
+2026/02/16 14:12:59 Boot already running, skipping spawn
+2026/02/16 14:12:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:12:59 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:12:59 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:12:59 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:13:21 Heartbeat complete (#161)
+2026/02/16 14:16:21 Heartbeat starting (recovery-focused)
+2026/02/16 14:16:21 Boot already running, skipping spawn
+2026/02/16 14:16:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:16:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:16:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:16:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:16:42 Heartbeat complete (#162)
+2026/02/16 14:19:42 Heartbeat starting (recovery-focused)
+2026/02/16 14:19:42 Boot already running, skipping spawn
+2026/02/16 14:19:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:19:42 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:19:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:19:42 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:20:04 Heartbeat complete (#163)
+2026/02/16 14:23:04 Heartbeat starting (recovery-focused)
+2026/02/16 14:23:04 Boot already running, skipping spawn
+2026/02/16 14:23:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:23:04 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:23:04 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:23:04 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:23:26 Heartbeat complete (#164)
+2026/02/16 14:26:26 Heartbeat starting (recovery-focused)
+2026/02/16 14:26:26 Boot already running, skipping spawn
+2026/02/16 14:26:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:26:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:26:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:26:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:26:48 Heartbeat complete (#165)
+2026/02/16 14:29:48 Heartbeat starting (recovery-focused)
+2026/02/16 14:29:48 Boot already running, skipping spawn
+2026/02/16 14:29:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:29:48 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:29:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:29:48 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:30:14 Heartbeat complete (#166)
+2026/02/16 14:33:14 Heartbeat starting (recovery-focused)
+2026/02/16 14:33:14 Boot already running, skipping spawn
+2026/02/16 14:33:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:33:14 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:33:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:33:14 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:33:38 Heartbeat complete (#167)
+2026/02/16 14:36:38 Heartbeat starting (recovery-focused)
+2026/02/16 14:36:38 Boot already running, skipping spawn
+2026/02/16 14:36:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:36:38 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:36:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:36:38 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:37:02 Heartbeat complete (#168)
+2026/02/16 14:40:02 Heartbeat starting (recovery-focused)
+2026/02/16 14:40:02 Boot already running, skipping spawn
+2026/02/16 14:40:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:40:02 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:40:02 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:40:02 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:40:24 Heartbeat complete (#169)
+2026/02/16 14:43:24 Heartbeat starting (recovery-focused)
+2026/02/16 14:43:24 Boot already running, skipping spawn
+2026/02/16 14:43:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:43:24 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:43:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:43:24 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:43:49 Heartbeat complete (#170)
+2026/02/16 14:46:49 Heartbeat starting (recovery-focused)
+2026/02/16 14:46:49 Boot already running, skipping spawn
+2026/02/16 14:46:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:46:49 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:46:49 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:46:49 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:47:15 Heartbeat complete (#171)
+2026/02/16 14:50:15 Heartbeat starting (recovery-focused)
+2026/02/16 14:50:15 Boot already running, skipping spawn
+2026/02/16 14:50:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:50:15 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:50:15 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:50:15 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:50:37 Heartbeat complete (#172)
+2026/02/16 14:53:37 Heartbeat starting (recovery-focused)
+2026/02/16 14:53:37 Boot already running, skipping spawn
+2026/02/16 14:53:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:53:37 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:53:37 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:53:37 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:54:03 Heartbeat complete (#173)
+2026/02/16 14:57:03 Heartbeat starting (recovery-focused)
+2026/02/16 14:57:03 Boot already running, skipping spawn
+2026/02/16 14:57:03 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:57:03 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 14:57:03 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 14:57:03 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 14:57:25 Heartbeat complete (#174)
+2026/02/16 15:00:25 Heartbeat starting (recovery-focused)
+2026/02/16 15:00:25 Boot already running, skipping spawn
+2026/02/16 15:00:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:00:25 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:00:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:00:25 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:00:47 Heartbeat complete (#175)
+2026/02/16 15:03:47 Heartbeat starting (recovery-focused)
+2026/02/16 15:03:47 Boot already running, skipping spawn
+2026/02/16 15:03:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:03:47 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:03:47 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:03:47 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:04:09 Heartbeat complete (#176)
+2026/02/16 15:07:09 Heartbeat starting (recovery-focused)
+2026/02/16 15:07:09 Boot already running, skipping spawn
+2026/02/16 15:07:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:07:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:07:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:07:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:07:31 Heartbeat complete (#177)
+2026/02/16 15:10:31 Heartbeat starting (recovery-focused)
+2026/02/16 15:10:31 Boot already running, skipping spawn
+2026/02/16 15:10:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:10:31 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:10:31 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:10:31 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:10:55 Heartbeat complete (#178)
+2026/02/16 15:13:55 Heartbeat starting (recovery-focused)
+2026/02/16 15:13:55 Boot already running, skipping spawn
+2026/02/16 15:13:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:13:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:13:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:13:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:14:21 Heartbeat complete (#179)
+2026/02/16 15:17:21 Heartbeat starting (recovery-focused)
+2026/02/16 15:17:21 Boot already running, skipping spawn
+2026/02/16 15:17:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:17:21 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:17:21 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:17:21 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:17:42 Heartbeat complete (#180)
+2026/02/16 15:20:42 Heartbeat starting (recovery-focused)
+2026/02/16 15:20:42 Boot already running, skipping spawn
+2026/02/16 15:20:42 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:20:43 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:20:43 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:20:43 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:21:05 Heartbeat complete (#181)
+2026/02/16 15:24:05 Heartbeat starting (recovery-focused)
+2026/02/16 15:24:05 Boot already running, skipping spawn
+2026/02/16 15:24:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:24:05 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:24:05 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:24:05 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:24:29 Heartbeat complete (#182)
+2026/02/16 15:27:29 Heartbeat starting (recovery-focused)
+2026/02/16 15:27:29 Boot already running, skipping spawn
+2026/02/16 15:27:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:27:29 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:27:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:27:29 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:27:53 Heartbeat complete (#183)
+2026/02/16 15:30:53 Heartbeat starting (recovery-focused)
+2026/02/16 15:30:53 Boot already running, skipping spawn
+2026/02/16 15:30:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:30:53 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:30:53 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:30:53 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:31:17 Heartbeat complete (#184)
+2026/02/16 15:34:17 Heartbeat starting (recovery-focused)
+2026/02/16 15:34:17 Boot already running, skipping spawn
+2026/02/16 15:34:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:34:17 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:34:17 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:34:17 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:34:39 Heartbeat complete (#185)
+2026/02/16 15:37:39 Heartbeat starting (recovery-focused)
+2026/02/16 15:37:39 Boot already running, skipping spawn
+2026/02/16 15:37:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:37:39 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:37:39 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:37:39 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:38:01 Heartbeat complete (#186)
+2026/02/16 15:41:01 Heartbeat starting (recovery-focused)
+2026/02/16 15:41:01 Boot already running, skipping spawn
+2026/02/16 15:41:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:41:01 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:41:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:41:01 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:41:29 Heartbeat complete (#187)
+2026/02/16 15:44:29 Heartbeat starting (recovery-focused)
+2026/02/16 15:44:29 Boot already running, skipping spawn
+2026/02/16 15:44:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:44:29 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:44:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:44:29 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:44:58 Heartbeat complete (#188)
+2026/02/16 15:47:58 Heartbeat starting (recovery-focused)
+2026/02/16 15:47:58 Boot already running, skipping spawn
+2026/02/16 15:47:58 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:47:58 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:47:58 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:47:58 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:48:22 Heartbeat complete (#189)
+2026/02/16 15:51:22 Heartbeat starting (recovery-focused)
+2026/02/16 15:51:22 Boot already running, skipping spawn
+2026/02/16 15:51:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:51:22 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:51:22 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:51:22 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:51:50 Heartbeat complete (#190)
+2026/02/16 15:54:50 Heartbeat starting (recovery-focused)
+2026/02/16 15:54:50 Boot already running, skipping spawn
+2026/02/16 15:54:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:54:50 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:54:50 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:54:50 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:55:14 Heartbeat complete (#191)
+2026/02/16 15:58:14 Heartbeat starting (recovery-focused)
+2026/02/16 15:58:14 Boot already running, skipping spawn
+2026/02/16 15:58:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:58:14 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 15:58:14 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 15:58:14 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 15:58:38 Heartbeat complete (#192)
+2026/02/16 16:01:38 Heartbeat starting (recovery-focused)
+2026/02/16 16:01:38 Boot already running, skipping spawn
+2026/02/16 16:01:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:01:38 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:01:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:01:38 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:02:01 Heartbeat complete (#193)
+2026/02/16 16:05:01 Heartbeat starting (recovery-focused)
+2026/02/16 16:05:01 Boot already running, skipping spawn
+2026/02/16 16:05:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:05:01 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:05:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:05:01 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:05:29 Heartbeat complete (#194)
+2026/02/16 16:08:29 Heartbeat starting (recovery-focused)
+2026/02/16 16:08:29 Boot already running, skipping spawn
+2026/02/16 16:08:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:08:29 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:08:29 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:08:29 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:08:55 Heartbeat complete (#195)
+2026/02/16 16:11:55 Heartbeat starting (recovery-focused)
+2026/02/16 16:11:55 Boot already running, skipping spawn
+2026/02/16 16:11:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:11:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:11:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:11:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:12:18 Heartbeat complete (#196)
+2026/02/16 16:15:18 Heartbeat starting (recovery-focused)
+2026/02/16 16:15:18 Boot already running, skipping spawn
+2026/02/16 16:15:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:15:18 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:15:18 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:15:18 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:15:46 Heartbeat complete (#197)
+2026/02/16 16:18:46 Heartbeat starting (recovery-focused)
+2026/02/16 16:18:46 Boot already running, skipping spawn
+2026/02/16 16:18:46 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:18:46 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:18:46 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:18:46 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:19:09 Heartbeat complete (#198)
+2026/02/16 16:22:09 Heartbeat starting (recovery-focused)
+2026/02/16 16:22:09 Boot already running, skipping spawn
+2026/02/16 16:22:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:22:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:22:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:22:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:22:35 Heartbeat complete (#199)
+2026/02/16 16:25:35 Heartbeat starting (recovery-focused)
+2026/02/16 16:25:35 Boot already running, skipping spawn
+2026/02/16 16:25:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:25:35 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:25:35 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:25:35 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:26:01 Heartbeat complete (#200)
+2026/02/16 16:29:01 Heartbeat starting (recovery-focused)
+2026/02/16 16:29:01 Boot already running, skipping spawn
+2026/02/16 16:29:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:29:01 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:29:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:29:01 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:29:25 Heartbeat complete (#201)
+2026/02/16 16:32:25 Heartbeat starting (recovery-focused)
+2026/02/16 16:32:25 Boot already running, skipping spawn
+2026/02/16 16:32:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:32:25 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:32:25 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:32:25 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:32:48 Heartbeat complete (#202)
+2026/02/16 16:35:48 Heartbeat starting (recovery-focused)
+2026/02/16 16:35:48 Boot already running, skipping spawn
+2026/02/16 16:35:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:35:48 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:35:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:35:48 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:36:13 Heartbeat complete (#203)
+2026/02/16 16:39:13 Heartbeat starting (recovery-focused)
+2026/02/16 16:39:13 Boot already running, skipping spawn
+2026/02/16 16:39:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:39:13 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:39:13 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:39:13 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:39:40 Heartbeat complete (#204)
+2026/02/16 16:42:40 Heartbeat starting (recovery-focused)
+2026/02/16 16:42:40 Boot already running, skipping spawn
+2026/02/16 16:42:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:42:40 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:42:40 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:42:40 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:43:09 Heartbeat complete (#205)
+2026/02/16 16:46:09 Heartbeat starting (recovery-focused)
+2026/02/16 16:46:09 Boot already running, skipping spawn
+2026/02/16 16:46:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:46:09 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:46:09 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:46:09 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:46:32 Heartbeat complete (#206)
+2026/02/16 16:49:32 Heartbeat starting (recovery-focused)
+2026/02/16 16:49:32 Boot already running, skipping spawn
+2026/02/16 16:49:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:49:32 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:49:32 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:49:32 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:49:55 Heartbeat complete (#207)
+2026/02/16 16:52:55 Heartbeat starting (recovery-focused)
+2026/02/16 16:52:55 Boot already running, skipping spawn
+2026/02/16 16:52:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:52:55 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:52:55 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:52:55 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:53:24 Heartbeat complete (#208)
+2026/02/16 16:56:24 Heartbeat starting (recovery-focused)
+2026/02/16 16:56:24 Boot already running, skipping spawn
+2026/02/16 16:56:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:56:24 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:56:24 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:56:24 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 16:56:48 Heartbeat complete (#209)
+2026/02/16 16:59:48 Heartbeat starting (recovery-focused)
+2026/02/16 16:59:48 Boot already running, skipping spawn
+2026/02/16 16:59:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:59:48 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 16:59:48 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 16:59:48 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:00:11 Heartbeat complete (#210)
+2026/02/16 17:03:11 Heartbeat starting (recovery-focused)
+2026/02/16 17:03:11 Boot already running, skipping spawn
+2026/02/16 17:03:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:03:11 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:03:11 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:03:11 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:03:38 Heartbeat complete (#211)
+2026/02/16 17:06:38 Heartbeat starting (recovery-focused)
+2026/02/16 17:06:38 Boot already running, skipping spawn
+2026/02/16 17:06:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:06:38 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:06:38 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:06:38 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:07:06 Heartbeat complete (#212)
+2026/02/16 17:10:06 Heartbeat starting (recovery-focused)
+2026/02/16 17:10:06 Boot already running, skipping spawn
+2026/02/16 17:10:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:10:06 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:10:06 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:10:06 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:10:30 Heartbeat complete (#213)
+2026/02/16 17:13:30 Heartbeat starting (recovery-focused)
+2026/02/16 17:13:30 Boot already running, skipping spawn
+2026/02/16 17:13:30 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:13:30 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:13:30 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:13:30 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:14:01 Heartbeat complete (#214)
+2026/02/16 17:17:01 Heartbeat starting (recovery-focused)
+2026/02/16 17:17:01 Boot already running, skipping spawn
+2026/02/16 17:17:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:17:01 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:17:01 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:17:01 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:17:26 Heartbeat complete (#215)
+2026/02/16 17:20:26 Heartbeat starting (recovery-focused)
+2026/02/16 17:20:26 Boot already running, skipping spawn
+2026/02/16 17:20:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:20:26 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:20:26 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:20:26 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:20:57 Heartbeat complete (#216)
+2026/02/16 17:23:57 Heartbeat starting (recovery-focused)
+2026/02/16 17:23:57 Boot already running, skipping spawn
+2026/02/16 17:23:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:23:57 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:23:57 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:23:57 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:24:19 Heartbeat complete (#217)
+2026/02/16 17:27:19 Heartbeat starting (recovery-focused)
+2026/02/16 17:27:19 Boot already running, skipping spawn
+2026/02/16 17:27:19 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:27:19 Witness for uniswapv2 already running, skipping spawn
+2026/02/16 17:27:19 Warning: no wisp config for uniswapv2 - parked state may have been lost
+2026/02/16 17:27:19 Refinery for uniswapv2 already running, skipping spawn
+2026/02/16 17:27:41 Heartbeat complete (#218)

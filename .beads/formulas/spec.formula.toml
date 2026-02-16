@@ -1,0 +1,27 @@
+[[steps]]
+id = "spec-generation"
+title = "Generate TLA+/Tamarin specs"
+
+[[steps]]
+id = "model-check"
+title = "Run model checker"
+needs = ["spec-generation"]
+
+[[steps]]
+id = "static-analysis"
+title = "Run Slither + CodeQL + Mythril"
+
+[[steps]]
+id = "correlate"
+title = "Cross-reference spec and code findings"
+needs = ["model-check", "static-analysis"]
+
+[[steps]]
+id = "doc-audit"
+title = "Three-way doc/spec/code correlation"
+needs = ["spec-generation", "static-analysis"]
+
+[[steps]]
+id = "poc-generation"
+title = "Write exploit PoCs for confirmed bugs"
+needs = ["correlate", "doc-audit"]

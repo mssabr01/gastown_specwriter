@@ -1,0 +1,92 @@
+{"ts":"2026-02-16T05:15:41Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-154607","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:43Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:47Z","source":"gt","type":"session_start","actor":"uniswapv2/witness","payload":{"actor_pid":"uniswapv2/witness-157017","cwd":"/home/conductor/gt/uniswapv2/witness","role":"uniswapv2/witness","session_id":"d37c1849-a682-4fb3-87f5-8dc0333e9069","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:49Z","source":"gt","type":"nudge","actor":"uniswapv2/witness","payload":{"reason":"[from uniswapv2/witness] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:55Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-160108","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:56Z","source":"gt","type":"session_start","actor":"uniswapv2/refinery","payload":{"actor_pid":"uniswapv2/refinery-160794","cwd":"/home/conductor/gt/uniswapv2/refinery/rig","role":"uniswapv2/refinery","session_id":"d37c1849-a682-4fb3-87f5-8dc0333e9069","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T05:15:57Z","source":"gt","type":"session_start","actor":"uniswapv2/witness","payload":{"actor_pid":"uniswapv2/witness-161600","cwd":"/home/conductor/gt/uniswapv2/witness","role":"uniswapv2/witness","session_id":"d37c1849-a682-4fb3-87f5-8dc0333e9069","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T05:16:03Z","source":"gt","type":"nudge","actor":"uniswapv2/refinery","payload":{"reason":"[from uniswapv2/refinery] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T05:24:29Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"rust","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T05:24:29Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-code01","target":"uniswapv2/polecats/rust"},"visibility":"feed"}
+{"ts":"2026-02-16T05:24:46Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"chrome","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T05:24:46Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-poc01","target":"uniswapv2/polecats/chrome"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:02Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"nitro","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:02Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-corr01","target":"uniswapv2/polecats/nitro"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:19Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"guzzle","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:19Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-doc01","target":"uniswapv2/polecats/guzzle"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:36Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"shiny","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T05:25:36Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-spec01","target":"uniswapv2/polecats/shiny"},"visibility":"feed"}
+{"ts":"2026-02-16T05:38:58Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Routine cycle","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T05:51:12Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Routine cycle","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T06:16:48Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Routine cycle","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T06:42:40Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Routine cycle","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T07:09:16Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-357761","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T07:10:39Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-359192","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T07:10:57Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T07:17:50Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Routine cycle","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T07:56:26Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Extended session 6","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T08:19:51Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext2","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T08:43:17Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext3","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T09:06:50Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext4 - 200 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T09:30:26Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext5 - 220 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T09:53:56Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext6 - 240 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T10:17:29Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext7 - 260 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T10:41:00Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext8 - 280 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T11:04:34Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext9 - 300 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T11:28:08Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext10 - 320 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T11:51:29Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-660744","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T11:52:52Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-661990","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T11:53:11Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T12:00:25Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext12 - 360 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:07:58Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext13 - 380 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:15:21Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext14 - 400 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:22:43Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext15 - 420 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:30:08Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext16 - 440 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:37:38Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext17 - 460 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:45:08Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext18 - 480 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T12:50:44Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-790531","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T12:52:08Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-794326","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T12:52:29Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T12:53:03Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext20 - 500+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:01:26Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext21 - 520+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:09:35Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext22 - 540+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:17:48Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext23 - 560+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:26:06Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext24 - 580+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:34:26Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext25 - 600 cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:42:51Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext26 - 620+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:51:18Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext27 - 640+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T13:59:37Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-931810","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T14:01:05Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-932992","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T14:01:28Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T14:01:44Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext28 - 660+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:11:06Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext29 - 680+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:20:17Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext30 - 700+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:29:32Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext31 - 720+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:38:48Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext32 - 740+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:48:09Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 6 ext33 - 760+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T14:57:45Z","source":"gt","type":"mail","actor":"deacon/","payload":{"subject":"🤝 HANDOFF: Session 6 complete - 780 cumulative","to":"deacon/"},"visibility":"feed"}
+{"ts":"2026-02-16T14:57:49Z","source":"gt","type":"handoff","actor":"deacon","payload":{"to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T15:07:49Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 7 ext35 - 800+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T15:17:09Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-1073315","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T15:18:36Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-1074911","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T15:19:02Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T15:29:09Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 7 ext37 - 840+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T15:39:41Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 7 ext38 - 860+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T15:49:14Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"fury","rig":"uniswapv2"},"visibility":"feed"}
+{"ts":"2026-02-16T15:49:23Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"uni2-corr01","target":"uniswapv2/polecats/fury"},"visibility":"feed"}
+{"ts":"2026-02-16T15:50:22Z","source":"gt","type":"nudge","actor":"uniswapv2/witness","payload":{"reason":"[from uniswapv2/witness] Your bead uni2-corr01 was reassigned to fury. You have no active work. Run 'gt hook' to check - if nothing hooked, run 'gt done' to exit cleanly.","rig":"uniswapv2","target":"uniswapv2/nitro"},"visibility":"feed"}
+{"ts":"2026-02-16T15:50:44Z","source":"gt","type":"mail","actor":"deacon/","payload":{"subject":"HANDOFF: Session 7 complete - 880 cumulative","to":"deacon/"},"visibility":"feed"}
+{"ts":"2026-02-16T15:50:49Z","source":"gt","type":"handoff","actor":"deacon","payload":{"to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T15:51:23Z","source":"gt","type":"done","actor":"uniswapv2/nitro","payload":{"bead":"uni2-corr01","branch":"polecat/nitro/uni2-corr01@mloqcngr"},"visibility":"feed"}
+{"ts":"2026-02-16T15:51:23Z","source":"gt","type":"session_death","actor":"uniswapv2/polecats/nitro","payload":{"agent":"uniswapv2/polecats/nitro","caller":"gt done","reason":"self-clean: done means gone","session":"gt-uniswapv2-nitro"},"visibility":"feed"}
+{"ts":"2026-02-16T16:02:11Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 8 ext40 - 900+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T16:13:04Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 8 ext41 - 920+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T16:24:02Z","source":"gt","type":"handoff","actor":"deacon","payload":{"subject":"Session 8 ext42 - 940+ cumulative","to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T16:35:15Z","source":"gt","type":"mail","actor":"deacon/","payload":{"subject":"HANDOFF: Session 8 complete - 960 cumulative","to":"deacon/"},"visibility":"feed"}
+{"ts":"2026-02-16T16:35:18Z","source":"gt","type":"handoff","actor":"deacon","payload":{"to_session":true},"visibility":"feed"}
+{"ts":"2026-02-16T16:35:46Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-1328974","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T16:37:22Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-1334817","cwd":"/home/conductor/gt/deacon","role":"deacon","session_id":"433f1d70-d9a2-4202-b9ab-969d34b9fa45","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-02-16T16:38:02Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-02-16T16:48:28Z","source":"gt","type":"mail","actor":"mayor/","payload":{"subject":"🚚 Convoy landed: UniswapV2 Audit","to":"mayor/"},"visibility":"feed"}
+{"ts":"2026-02-16T17:24:27Z","source":"gt","type":"mail","actor":"deacon/","payload":{"subject":"HANDOFF: Session 9 complete - 1040 cumulative","to":"deacon/"},"visibility":"feed"}
+{"ts":"2026-02-16T17:24:30Z","source":"gt","type":"handoff","actor":"deacon","payload":{"to_session":true},"visibility":"feed"}

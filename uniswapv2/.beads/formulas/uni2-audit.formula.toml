@@ -1,0 +1,37 @@
+description = "Uniswap v2 formal verification audit pipeline"
+formula = "uni2-audit"
+version = 1
+
+[[steps]]
+id = "spec-generation"
+title = "Write TLA+ specs"
+description = "Formalize UniswapV2Pair into TLA+ actions and invariants"
+bead = "uni2-spec01"
+
+[[steps]]
+id = "code-spec-audit"
+title = "Code-to-spec conformance audit"
+description = "Compare Solidity implementation against TLA+ specs"
+needs = ["spec-generation"]
+bead = "uni2-code01"
+
+[[steps]]
+id = "doc-spec-audit"
+title = "Two-way doc/spec correlation"
+description = "Compare protocol docs against TLA+ specs"
+needs = ["spec-generation"]
+bead = "uni2-doc01"
+
+[[steps]]
+id = "correlate"
+title = "Cross-correlate all findings"
+description = "Merge findings from code audit and doc audit, rank by exploitability"
+needs = ["code-spec-audit", "doc-spec-audit"]
+bead = "uni2-corr01"
+
+[[steps]]
+id = "poc-generation"
+title = "Write exploit PoCs"
+description = "Foundry test cases for confirmed CRITICAL/HIGH findings"
+needs = ["correlate"]
+bead = "uni2-poc01"

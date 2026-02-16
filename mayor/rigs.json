@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rigs": {
+    "uniswapv2": {
+      "git_url": "https://github.com/Uniswap/v2-core.git",
+      "added_at": "2026-02-15T15:39:31.038917517Z",
+      "beads": {
+        "repo": "",
+        "prefix": "un"
+      }
+    }
+  }
+}

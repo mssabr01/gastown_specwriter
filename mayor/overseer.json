@@ -1,0 +1,7 @@
+{
+  "type": "overseer",
+  "version": 1,
+  "name": "conductor",
+  "username": "conductor",
+  "source": "environment"
+}
